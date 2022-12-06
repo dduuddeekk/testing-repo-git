@@ -1,0 +1,6 @@
+Ikan Bakar
+50000
+Ayam Bakar
+60000
+Pecel Lele
+15000
